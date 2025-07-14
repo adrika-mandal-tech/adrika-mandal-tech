@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrika Mandal</h1>
 <h3 align="center">B.Tech CSE (AI & DS) | Aspiring Data Scientist and Full Stack Developer | Dreamer & Doer💫</h3>
-![Data Science Enthusiast](https://img.shields.io/badge/-Data%20Science%20Enthusiast-yellow?style=for-the-badge&logo=data)
-![AI for Good](https://img.shields.io/badge/-AI%20for%20Good-purple?style=for-the-badge&logo=heart)
-
----
 
 💡 **A Little About Me**  
 - 🔭 I’m currently working on **Computer Vision & ML projects**
@@ -13,7 +9,9 @@
 - 💬 Ask me about **Python, OpenCV, GitHub, AI Models, and Women in Tech**
 - 📫 Reach me: `adrikamandal@email.com`
 - ⚡ Fun fact: I love **writing poetry**, singing 🎤, Art&Craft 👩‍🎨and winning at **Ludo & UNO** 🃏
-
+---
+![Data Science Enthusiast](https://img.shields.io/badge/-Data%20Science%20Enthusiast-yellow?style=for-the-badge&logo=data)
+![AI for Good](https://img.shields.io/badge/-AI%20for%20Good-purple?style=for-the-badge&logo=heart)
 ---
 
 ## 🛠️ My Tech Stack
@@ -70,7 +68,7 @@
 ---
 ## 🎨 Featured Projects
 - 🔍 **[Sign Language Recognition using CV & ML](https://github.com/adrikamandal/SignLang-Detector)**  
----
+
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrika-mandal-753226246/)
