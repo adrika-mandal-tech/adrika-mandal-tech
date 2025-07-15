@@ -13,7 +13,8 @@
 ![Data Science Enthusiast](https://img.shields.io/badge/-Data%20Science%20Enthusiast-yellow?style=for-the-badge&logo=data)
 ![AI for Good](https://img.shields.io/badge/-AI%20for%20Good-purple?style=for-the-badge&logo=heart)
 ---
-
+![logo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+---
 ## 🛠️ My Tech Stack
 
 ### 👩‍💻 Languages & Web Tech:
