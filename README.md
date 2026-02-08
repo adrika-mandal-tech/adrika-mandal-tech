@@ -87,10 +87,9 @@
 
 ---
 
-## 🎨 Featured Projects
-- 🔍 **[Sign Language Recognition using CV & ML](https://github.com/adrikamandal/SignLang-Detector)**
-- 🏠 **[Bangalore Real Estate Price Predictor Web App](https://github.com/adrikamandal/RealEstate-Predictor)**  
-- 💱 **[Gemini Clone](https://github.com/adrikamandal/Gemini-Clone)**
+## 🎨 Some Featured Projects
+- 🔍 **[Sign Language Recognition using CV & ML]([https://github.com/adrikamandal/SignLang-Detector](https://github.com/adrika-mandal-tech/CODECRAFT_ML_04))**
+- 🏠 **[Bangalore Real Estate Price Predictor Web App]([https://github.com/adrikamandal/RealEstate-Predictor](https://github.com/adrika-mandal-tech/ML_Project))**  
 
 ---
 
