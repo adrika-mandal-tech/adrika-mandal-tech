@@ -65,12 +65,7 @@
 ![Mural](https://img.shields.io/badge/Mural-FF3366?style=flat&logo=mural&logoColor=white)
 [![Scrum](https://img.shields.io/badge/Scrum-4BAF50?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/resources/what-is-scrum)
 ![SEMRush](https://img.shields.io/badge/SEMRush-FF5722?style=flat&logo=semrush&logoColor=white)
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrika-mandal-tech&show_icons=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrika-mandal-tech&layout=compact&cache_seconds=1800)
-![GitHub Streak](https://streak-stats.demolab.com?user=adrika-mandal-tech&hide_border=true)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adrika-mandal-tech&no-frame=true&row=1)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adrika-mandal-tech)
+
 ---
 ## 🎨 Featured Projects
 - 🔍 **[Sign Language Recognition using CV & ML](https://github.com/adrikamandal/SignLang-Detector)**  
