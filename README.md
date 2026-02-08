@@ -65,6 +65,15 @@
 ![Mural](https://img.shields.io/badge/Mural-FF3366?style=flat&logo=mural&logoColor=white)
 [![Scrum](https://img.shields.io/badge/Scrum-4BAF50?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/resources/what-is-scrum)
 ![SEMRush](https://img.shields.io/badge/SEMRush-FF5722?style=flat&logo=semrush&logoColor=white)
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrika-mandal-tech&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrika-mandal-tech&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=adrika-mandal-tech&theme=tokyonight&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adrika-mandal-tech&theme=onedark&no-frame=true&row=1)
+![GitHub Streak](https://streak-stats.demolab.com?user=adrika-mandal-tech&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adrika-mandal-tech&theme=tokyo-night)
+
 
 ---
 ## 🎨 Featured Projects
