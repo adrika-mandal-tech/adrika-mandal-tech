@@ -152,8 +152,8 @@
 
 | Project | GitHub Repository | Live Demo |
 |---|---|---|
-| **AEGIS AI – AgentSwarm** | Repository link to be added | Not deployed yet |
-| **NEXUS AI – Hybrid GraphRAG** | Repository link to be added | Not deployed yet |
+| **AEGIS AI – AgentSwarm** | [GitHub](https://github.com/adrika-mandal-tech/AegisAI) | Not deployed yet |
+| **NEXUS AI – Hybrid GraphRAG** | [GitHub](https://github.com/adrika-mandal-tech/NexusAI) | Not deployed yet |
 | **RENTIVA.ai – AI Rental Management Platform** | [GitHub](https://github.com/adrika-mandal-tech/rentiva-ai) | [Live Demo](https://rentiva-ai.vercel.app/landing.html) |
 | **Bangalore Real Estate Price Predictor** | [GitHub](https://github.com/adrika-mandal-tech/ML_Project) | [Live Demo](https://bangalore-house-price-predictor-dibd.onrender.com/) |
 | **Sign Language Recognition** | [GitHub](https://github.com/adrika-mandal-tech/CODECRAFT_ML_04) | Not deployed |
