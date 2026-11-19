@@ -17,7 +17,6 @@
 ## 💡 About Me
 
 - 🔭 Building **Generative AI applications, Agentic AI systems, RAG and GraphRAG solutions**.
-- 💼 Generative AI Software Engineer at **Comptech Associates Inc. (Prajna AI)**.
 - 🌱 Exploring **LLM orchestration, multi-agent systems, knowledge graphs, hybrid retrieval and AI evaluation**.
 - 💬 Ask me about **Python, GenAI, LLMs, LangChain, LangGraph, RAG, GraphRAG, Machine Learning and Full Stack Development**.
 - 🎨 Beyond technology: Singing 🎤, poetry, art & craft.
@@ -157,16 +156,6 @@
 | **RENTIVA.ai – AI Rental Management Platform** | [GitHub](https://github.com/adrika-mandal-tech/rentiva-ai) | [Live Demo](https://rentiva-ai.vercel.app/landing.html) |
 | **Bangalore Real Estate Price Predictor** | [GitHub](https://github.com/adrika-mandal-tech/ML_Project) | [Live Demo](https://bangalore-house-price-predictor-dibd.onrender.com/) |
 | **Sign Language Recognition** | [GitHub](https://github.com/adrika-mandal-tech/CODECRAFT_ML_04) | Not deployed |
-
-### Internship Research & Graph Data Science Projects
-
-| Project | GitHub Repository | Live Demo |
-|---|---|---|
-| **Intern GDS** | [GitHub](https://github.com/adrika-mandal-tech/intern-gds) | Research repository |
-| **Intern GrasPh GDS** | [GitHub](https://github.com/adrika-mandal-tech/intern-grasph-gds) | Research repository |
-| **Intern RFP Automation** | [GitHub](https://github.com/adrika-mandal-tech/intern-rfp) | Research repository |
-| **Synthea Healthcare Analytics** | [GitHub](https://github.com/adrika-mandal-tech/Synthea-Healthcare-Analytics) | Research repository |
-
 
 ---
 
